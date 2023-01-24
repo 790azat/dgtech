@@ -13,4 +13,9 @@ class ItemController extends Controller
         $categories = Category::all();
         return view('welcome',['items' => $items, 'categories' => $categories]);
     }
+
+    public function show_item($id) {
+        $item = Item::find($id);
+        return view('user.item',['item' => $item]);
+    }
 }

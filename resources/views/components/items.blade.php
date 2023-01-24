@@ -1,13 +1,13 @@
-<div class="col-12" id="items">
-    <div class="container px-0 d-flex">
-        <div class="col-3 px-3 py-4 shadow">
+<div class="col-12 mt-3" id="items">
+    <div class="container d-flex">
+        <div class="col-3 px-3 py-4 pt-2 shadow rounded-1 d-none d-sm-block">
             <div class="col-12 fw-bold text-center fs-5 border-bottom py-2 pb-1">
                 <div>
                     <p><i class="fa-solid fa-sitemap me-1"></i> Category</p>
                 </div>
                 <div class="col-12 py-2">
                     @foreach($categories as $category)
-                        <button class="btn btn-outline-secondary col-12 mb-1"><i class="fa-solid fa-{{ $category->icon }} me-1"></i> {{ ucfirst($category->name) }}</button>
+                        <button class="btn btn-outline-dark col-12 mb-1"><i class="fa-solid fa-{{ $category->icon }} me-1"></i> {{ ucfirst($category->name) }}</button>
                     @endforeach
                 </div>
             </div>
@@ -15,9 +15,9 @@
                 <p class="me-2 text-nowrap"><i class="fa-solid fa-sort me-1"></i> Sorting</p>
             </div>
             <div class="col-12 d-flex align-items-center fw-bold text-center fs-5 border-bottom py-2">
-                <select class="form-select" aria-label="Default select example">
-                    <option value="1" selected>Price: Low to High</option>
-                    <option value="2">Price: High to Low</option>
+                <select class="form-select" aria-label="Default select example" style="font-family: 'Font Awesome 5 Pro Light',serif;line-height: inherit">
+                    <option value="1" selected>Price: Low to High &#xf0d8;</option>
+                    <option value="2">Price: High to Low &#xf0d7;</option>
                 </select>
             </div>
             <div class="col-12 border-bottom py-2">
@@ -56,12 +56,12 @@
                 </div>
             </div>
         </div>
-        <div class="col-9 d-flex row-cols-3 flex-wrap">
+        <div class="col-12 col-sm-9 d-flex row-cols-md-3 row-cols-sm-2 row-cols-1 flex-wrap">
             @foreach($items as $item)
-                <div class="col ps-3 @if($loop->index == count($items) - 3 or $loop->index == count($items) - 3 or $loop->last) @else pb-3 @endif">
+                <div class="col ps-sm-3 pb-3">
                     <div class="col-12 shadow rounded-1 p-2">
-                        <a href="" class="col-12">
-                            <img src="{{ asset('images/' . $item->image) }}" class="rounded-1" style="width: 100%;height: auto;object-fit: cover" alt="">
+                        <a href="/item/{{ $item->id }}" class="col-12">
+                            <img src="{{ $item->image }}" class="rounded-1" style="width: 100%;height: auto;object-fit: cover" alt="">
                         </a>
                         <div class="col-12 p-3 pb-0">
                             <div class="col-12 text-center text-truncate">

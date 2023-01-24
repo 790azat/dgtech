@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Category;
 use App\Models\Item;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
@@ -29,7 +30,7 @@ class HomeController extends Controller
             case 0:
                 return view('user.panel');
             case 1:
-                return view('admin.panel',['items' => Item::all()]);
+                return view('admin.panel',['items' => Item::all(),'categories' => Category::all()]);
         }
     }
 }

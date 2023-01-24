@@ -1,33 +1,20 @@
 @extends('layout')
 
 @section('content')
-@include('components.header')
-    <div class="col-12 mt-5">
+    @include('components.header')
+    <div class="col-12 mt-3">
         <div class="container">
             <div class="shadow-sm rounded-1 p-4">
                 <div class="col-12">
-                    <a href="">
-                        <button class="btn btn-success"><i class="fa-solid fa-plus me-1"></i> Add item</button>
-                    </a>
+                    <div class="col-12 d-flex gap-3">
+                        <a href="{{ route('admin-items') }}"><button class="btn btn-outline-success @if(Route::current()->uri == 'admin-items') active @endif"><i class="fa-solid fa-box me-1"></i> Items</button></a>
+                        <a href="{{ route('admin-categories') }}"><button class="btn btn-outline-primary @if(Route::current()->uri == 'admin-categories') active @endif"><i class="fa-solid fa-sitemap me-1"></i> Categories</button></a>
+                        <a href="{{ route('admin-users') }}"><button class="btn btn-outline-warning @if(Route::current()->uri == 'admin-users') active @endif"><i class="fa-solid fa-user me-1"></i> Users</button></a>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="col-12 mt-5">
-        <div class="container">
-            <div class="shadow-sm rounded-1 p-4">
-                @if($items !== null)
-                    @foreach($items as $item)
-                        <div class="col-12 shadow-sm rounded-1 d-flex">
-                            <p class="text-truncate col-2">{{ $item->name }}</p>
-                            <p class="text-truncate col-2">{{ $item->price }}</p>
-                            <p class="text-truncate col-2">{{ $item->info }}</p>
-                            <p class="text-truncate col-2">{{ $item->image }}</p>
-                            <p class="text-truncate col-2">{{ $item->images }}</p>
-                            <p class="text-truncate col-2">{{ $item->category->name }}</p>
-                        </div>
-                    @endforeach
-                @endif
+            <div class="shadow-sm rounded-1 p-4 mt-2">
+                @yield('admin-info')
             </div>
         </div>
     </div>

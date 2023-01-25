@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\ItemController;
+use App\Http\Livewire\Items\Show;
 use App\Models\Category;
 use App\Models\Item;
 use App\Models\User;
@@ -21,7 +22,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/p',[\App\Http\Controllers\ParserController::class,'index']);
 
 Route::get('/reset', function () {
     Artisan::call('db:wipe');
@@ -31,15 +31,16 @@ Route::get('/reset', function () {
 });
 
 
-Route::get('/',[ItemController::class, 'index'])->name('welcome');
+Route::get('/',[ItemController::class,'index'])->name('welcome');
+Route::get('/category/{name}',[ItemController::class,'show_category']);
 Route::get('/item/{id}',[ItemController::class, 'show_item']);
 
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::view('/admin-items','admin.pages.items',['items' => Item::all(),'categories' => Category::all()])->name('admin-items');
-Route::view('/admin-categories','admin.pages.categories',['categories' => Category::all()])->name('admin-categories');
-Route::view('/admin-users','admin.pages.users',['users' => User::all()])->name('admin-users');
+Route::get('/admin-items',[AdminController::class,'index'])->name('admin-items');
+Route::get('/admin-categories',[AdminController::class,'categories'])->name('admin-categories');
+Route::get('/admin-users',[AdminController::class,'users'])->name('admin-users');
 Route::post('/add-item',[AdminController::class, 'add_item']);
 Route::get('/delete-item/{id}',[AdminController::class, 'delete_item']);

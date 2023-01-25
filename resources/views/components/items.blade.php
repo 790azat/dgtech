@@ -6,8 +6,9 @@
                     <p><i class="fa-solid fa-sitemap me-1"></i> Category</p>
                 </div>
                 <div class="col-12 py-2">
-                    @foreach($categories as $category)
-                        <button class="btn btn-outline-dark col-12 mb-1"><i class="fa-solid fa-{{ $category->icon }} me-1"></i> {{ ucfirst($category->name) }}</button>
+                    <a href="{{ route('welcome') }}" class="d-block"><button class="@if(Route::currentRouteName() == 'welcome') active @endif btn btn-outline-dark col-12 mb-1"><i class="fa-solid fa-box me-1"></i> All</button></a>
+                @foreach($categories as $category)
+                        <a href="{{ '/category/' . $category->name }}" class="d-block"><button class="@if(Route::current()->name == $category->name) active @endif btn btn-outline-dark col-12 mb-1"><i class="fa-solid fa-{{ $category->icon }} me-1"></i> {{ ucfirst($category->name) }}</button></a>
                     @endforeach
                 </div>
             </div>
@@ -15,9 +16,10 @@
                 <p class="me-2 text-nowrap"><i class="fa-solid fa-sort me-1"></i> Sorting</p>
             </div>
             <div class="col-12 d-flex align-items-center fw-bold text-center fs-5 border-bottom py-2">
-                <select class="form-select" aria-label="Default select example" style="font-family: 'Font Awesome 5 Pro Light',serif;line-height: inherit">
-                    <option value="1" selected>Price: Low to High &#xf0d8;</option>
-                    <option value="2">Price: High to Low &#xf0d7;</option>
+                <select class="form-select">
+                    <option selected disabled hidden>Price</option>
+                    <option value="1">Price: Low to High ↑</option>
+                    <option value="2">Price: High to Low ↓</option>
                 </select>
             </div>
             <div class="col-12 border-bottom py-2">

@@ -16,8 +16,8 @@
                 <p class="me-2 text-nowrap"><i class="fa-solid fa-sort me-1"></i> Sorting</p>
             </div>
             <div class="col-12 d-flex align-items-center fw-bold text-center fs-5 border-bottom py-2">
-                <select class="form-select">
-                    <option selected disabled hidden>Price</option>
+                <select wire:model="selectedSorting" class="form-select">
+                    <option selected hidden value="0">Price</option>
                     <option value="1">Price: Low to High ↑</option>
                     <option value="2">Price: High to Low ↓</option>
                 </select>

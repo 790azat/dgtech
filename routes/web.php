@@ -1,14 +1,12 @@
 <?php
 
 use App\Http\Controllers\AdminController;
-use App\Http\Controllers\ItemController;
+use App\Http\Controllers\HomeController;
+use App\Http\Livewire\AdminPage;
+use App\Http\Livewire\AdminPanel;
 use App\Http\Livewire\Items;
-use App\Http\Livewire\Items\Show;
 use App\Http\Livewire\ShowCategory;
 use App\Http\Livewire\ShowItem;
-use App\Models\Category;
-use App\Models\Item;
-use App\Models\User;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
@@ -33,17 +31,18 @@ Route::get('/reset', function () {
     return redirect()->route('welcome');
 });
 
-
 Route::get('/',Items::class)->name('welcome');
 Route::get('/category/{name}', ShowCategory::class);
 Route::get('/item/{id}', ShowItem::class);
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/home', [HomeController::class, 'index'])->name('home');
 
-Route::get('/admin-items',[AdminController::class,'index'])->name('admin-items');
-Route::get('/admin-categories',[AdminController::class,'categories'])->name('admin-categories');
-Route::get('/admin-users',[AdminController::class,'users'])->name('admin-users');
-Route::post('/add-item',[AdminController::class, 'add_item']);
-Route::get('/delete-item/{id}',[AdminController::class, 'delete_item']);
+Route::get('/admin', AdminPanel::class)->name('admin');
+Route::get('/admin/{page}', AdminPage::class);
+
+Route::post('/add-item',[AdminController::class,'add_item'])->name('add-item');
+
+
+

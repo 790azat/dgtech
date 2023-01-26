@@ -17,11 +17,11 @@ class CategorySeeder extends Seeder
     public function run()
     {
         $categories = [
-            ['name' => 'phone', 'icon' => 'phone'],
-            ['name' => 'tablet', 'icon' => 'tablet'],
-            ['name' => 'watch', 'icon' => 'clock'],
-            ['name' => 'laptop', 'icon' => 'laptop'],
-            ['name' => 'earbuds', 'icon' => 'headphones']
+            ['name' => 'phone', 'icon' => 'phone','created_at' => now()],
+            ['name' => 'tablet', 'icon' => 'tablet','created_at' => now()],
+            ['name' => 'watch', 'icon' => 'clock','created_at' => now()],
+            ['name' => 'laptop', 'icon' => 'laptop','created_at' => now()],
+            ['name' => 'earbuds', 'icon' => 'headphones','created_at' => now()]
         ];
 
         DB::table('categories')->insert($categories);

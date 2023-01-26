@@ -26,11 +26,11 @@ class HomeController extends Controller
      */
     public function index()
     {
-        switch (Auth::user()->type) {
-            case 0:
-                return view('user.panel');
-            case 1:
-                return view('admin.panel',['items' => Item::all(),'categories' => Category::all()]);
+        if (Auth::user()->type == 0) {
+            return view('user.panel');
+        }
+        else {
+            return redirect()->route('admin');
         }
     }
 }

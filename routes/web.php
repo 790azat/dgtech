@@ -4,6 +4,8 @@ use App\Http\Controllers\AdminController;
 use App\Http\Controllers\ItemController;
 use App\Http\Livewire\Items;
 use App\Http\Livewire\Items\Show;
+use App\Http\Livewire\ShowCategory;
+use App\Http\Livewire\ShowItem;
 use App\Models\Category;
 use App\Models\Item;
 use App\Models\User;
@@ -33,8 +35,8 @@ Route::get('/reset', function () {
 
 
 Route::get('/',Items::class)->name('welcome');
-//Route::get('/category/{name}',[ItemController::class,'show_category']);
-Route::get('/item/{id}',[ItemController::class, 'show_item']);
+Route::get('/category/{name}', ShowCategory::class);
+Route::get('/item/{id}', ShowItem::class);
 
 Auth::routes();
 

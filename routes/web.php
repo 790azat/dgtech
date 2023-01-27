@@ -43,6 +43,7 @@ Route::get('/admin', AdminPanel::class)->name('admin');
 Route::get('/admin/{page}', AdminPage::class);
 
 Route::post('/add-item',[AdminController::class,'add_item'])->name('add-item');
+Route::post('/edit-item',[AdminController::class,'edit_item'])->name('edit-item');
 
 
 

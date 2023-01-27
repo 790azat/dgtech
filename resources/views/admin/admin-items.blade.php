@@ -2,7 +2,6 @@
     <div class="col-12 shadow rounded-1 p-4">
         <div class="col-12">
             <button data-bs-toggle="modal" data-bs-target="#addItemModal" class="btn btn-success"><i class="fa-solid fa-plus me-1"></i> Add item</button>
-
             <!-- Modal -->
             <div class="modal fade" id="addItemModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog">
@@ -74,14 +73,76 @@
                         </td>
                         <td><span class="badge bg-primary p-2"><i class="fa-solid fa-{{ $item->category->icon }}"></i> {{ ucfirst($item->category->name) }}</span></td>
                         <td>{{ $item->created_at }}</td>
-                        <td><a href="/"><button class="btn btn-warning"><i class="fa-solid fa-pen"></i></button></a></td>
+                        <td><button class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#itemEditModal{{ $item->id }}"><i class="fa-solid fa-pen"></i></button></td>
+                        <div class="modal fade" id="itemEditModal{{ $item->id }}" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="itemEditModal{{ $item->id }}">Add item</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <form action="/edit-item" enctype="multipart/form-data" method="post"  class="d-flex flex-wrap">
+                                            @csrf
+                                            <input class="d-none" name="id" type="text" value="{{ $item->id }}">
+                                            <div class="col-12 d-flex gap-3 mb-3">
+                                                <input required type="text" value="{{ $item->name }}" name="name" placeholder="Name" class="form-control">
+                                                <input required type="number" value="{{ $item->price }}" name="price" placeholder="Price" class="form-control">
+                                            </div>
+                                            <div class="col-12 d-flex mb-3">
+                                                <input required type="text" value="{{ $item->info }}" name="info" placeholder="Info" class="form-control">
+                                            </div>
+                                            <div class="col-12 d-flex gap-3 mb-3">
+                                                <input type="file" name="image" class="form-control">
+                                                <input type="file" name="images[]" multiple class="form-control">
+                                            </div>
+                                            <div class="col-12 d-flex gap-3 mb-3">
+                                                <div class="col-auto">
+                                                    <img src="{{ $item->image }}" class="img-thumbnail" style="width: 100px;height: auto" alt="">
+                                                    <div class="col-12">
+                                                        <button class="col-12 btn btn-danger py-0" style="border-top-left-radius: 0;border-top-right-radius: 0"><i class="fa-solid fa-trash"></i></button>
+                                                    </div>
+                                                </div>
+                                                <div class="col-auto">
+                                                    <div class="col-12 d-flex gap-3">
+                                                        @foreach(json_decode($item->images) as $img)
+                                                            <div class="col">
+                                                                <img src="{{ $img }}" class="img-thumbnail" style="width: 100px;height: auto;border-bottom-left-radius: 0;border-bottom-right-radius: 0" alt="">
+                                                                <div class="col-12">
+                                                                    <button class="col-12 btn btn-danger py-0" style="border-top-left-radius: 0;border-top-right-radius: 0"><i class="fa-solid fa-trash"></i></button>
+                                                                </div>
+                                                            </div>
+                                                        @endforeach
+                                                    </div>
+                                                </div>
+
+
+                                            </div>
+                                            <div class="col-12 d-flex gap-3 mb-3">
+                                                <select name="category" required class="form-select">
+                                                    <option hidden value="0">Category</option>
+                                                    @foreach($categories as $category)
+                                                        <option @if($category->id == $item->category_id) selected @endif value="{{ $category->id }}">{{ ucfirst($category->name) }}</option>
+                                                    @endforeach
+                                                </select>
+                                            </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                        <button type="submit" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+
                         <td><button data-bs-toggle="modal" data-bs-target="#deleteItemModal" class="btn btn-danger"><i class="fa-solid fa-trash"></i></button></td>
                             <!-- Modal -->
                             <div class="modal fade" id="deleteItemModal" tabindex="-1" aria-labelledby="deleteItemModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered">
                                     <div class="modal-content">
                                         <div class="modal-header">
-                                            <h1 class="modal-title fs-5" id="exampleModalLabel">{{ $item->name }}</h1>
+                                            <h1 class="modal-title fs-5">{{ $item->name }}</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                         </div>
                                         <div class="modal-body d-flex gap-2">

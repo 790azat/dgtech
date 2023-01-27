@@ -18,8 +18,8 @@ return new class extends Migration
             $table->string('name');
             $table->integer('price');
             $table->text('info');
-            $table->string('image');
-            $table->longText('images');
+            $table->string('image')->nullable();
+            $table->longText('images')->nullable();
             $table->integer('category_id');
             $table->timestamps();
         });

@@ -1,13 +1,13 @@
 <div>
     <div class="col-12 shadow rounded-1 p-4">
-        <div class="col-12">
+        <div class="col-12 d-flex gap-3 align-items-start">
             <button data-bs-toggle="modal" data-bs-target="#addItemModal" class="btn btn-success"><i class="fa-solid fa-plus me-1"></i> Add item</button>
             <!-- Modal -->
             <div class="modal fade" id="addItemModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h1 class="modal-title fs-5" id="addItemModalLabel">Add item</h1>
+                            <h1 class="modal-title fs-5">Add item</h1>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
@@ -40,6 +40,9 @@
                         </form>
                     </div>
                 </div>
+            </div>
+            <div class="col-auto">
+                <input type="text" wire:model="search" class="form-control" placeholder="Search">
             </div>
         </div>
         <hr>
@@ -78,7 +81,7 @@
                             <div class="modal-dialog modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h1 class="modal-title fs-5" id="itemEditModal{{ $item->id }}">Add item</h1>
+                                        <h1 class="modal-title fs-5">Add item</h1>
                                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
                                     <div class="modal-body">
@@ -93,15 +96,23 @@
                                                 <input required type="text" value="{{ $item->info }}" name="info" placeholder="Info" class="form-control">
                                             </div>
                                             <div class="col-12 d-flex gap-3 mb-3">
-                                                <input type="file" name="image" class="form-control">
-                                                <input type="file" name="images[]" multiple class="form-control">
+                                                @if($item->image == null)
+                                                    <input type="file" name="image" class="form-control d-none" id="image">
+                                                    <button type="button" onclick="document.getElementById('image').click()" class="btn btn-primary text-nowrap"><i class="fa-solid fa-upload me-1"></i> <i class="fa-solid fa-image me-1"></i> Upload main</button>
+                                                @endif
+                                                @if(json_decode($item->images) == [])
+                                                    <input type="file" name="images[]" multiple class="form-control d-none" id="images">
+                                                        <button type="button" onclick="document.getElementById('images').click()" class="btn btn-primary text-nowrap"><i class="fa-solid fa-upload me-1"></i> <i class="fa-solid fa-images me-1"></i> Upload images</button>
+                                                @endif
                                             </div>
                                             <div class="col-12 d-flex gap-3 mb-3">
                                                 <div class="col-auto">
-                                                    <img src="{{ $item->image }}" class="img-thumbnail" style="width: 100px;height: auto" alt="">
-                                                    <div class="col-12">
-                                                        <button class="col-12 btn btn-danger py-0" style="border-top-left-radius: 0;border-top-right-radius: 0"><i class="fa-solid fa-trash"></i></button>
-                                                    </div>
+                                                    @isset($item->image)
+                                                        <img src="{{ $item->image }}" class="img-thumbnail" style="width: 100px;height: auto;border-bottom-left-radius: 0;border-bottom-right-radius: 0" alt="">
+                                                        <div class="col-12">
+                                                            <button type="button" wire:click="deleteImage({{$item->id}})" class="col-12 btn btn-danger py-0" style="border-top-left-radius: 0;border-top-right-radius: 0"><i class="fa-solid fa-trash"></i></button>
+                                                        </div>
+                                                    @endisset
                                                 </div>
                                                 <div class="col-auto">
                                                     <div class="col-12 d-flex gap-3">
@@ -109,7 +120,7 @@
                                                             <div class="col">
                                                                 <img src="{{ $img }}" class="img-thumbnail" style="width: 100px;height: auto;border-bottom-left-radius: 0;border-bottom-right-radius: 0" alt="">
                                                                 <div class="col-12">
-                                                                    <button class="col-12 btn btn-danger py-0" style="border-top-left-radius: 0;border-top-right-radius: 0"><i class="fa-solid fa-trash"></i></button>
+                                                                    <button type="button" wire:click="deleteFromImages({{$item->id}},'{{$img}}')" class="col-12 btn btn-danger py-0" style="border-top-left-radius: 0;border-top-right-radius: 0"><i class="fa-solid fa-trash"></i></button>
                                                                 </div>
                                                             </div>
                                                         @endforeach
@@ -170,7 +181,9 @@
             </tbody>
         </table>
         <div class="col-12 d-flex justify-content-center">
-            {{ $items->links() }}
+            @isset($items->links)
+                {{ $items->links() }}
+            @endisset
         </div>
     </div>
 </div>

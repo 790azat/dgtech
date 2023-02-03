@@ -17,10 +17,27 @@
                 @endguest
                 @auth
                     @if(Auth::user()->type == 1)
-                            <a href="{{ route('home') }}"><i class="fa-solid fa-user-circle me-1"></i> <p class="d-none d-sm-inline">{{ Auth::user()->name }}</p></a>
-                            <a onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><i class="fa-solid fa-right-to-bracket me-1"></i> Logout</a>
+                        <a href="{{ route('home') }}"><i class="fa-solid fa-user-circle me-1"></i> <p class="d-none d-sm-inline">{{ Auth::user()->name }}</p></a>
+                        <a onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><i class="fa-solid fa-right-to-bracket me-1"></i> Logout</a>
                     @else
-                        <a href="{{ route('home') }}" class="p-1 rounded-circle shadow-sm d-flex justify-content-center align-items-center" style="width: 40px;height: 40px"><i class="fa-solid fa-cart-shopping" style="font-size: 15px"></i></a>
+                        <div class="d-flex dropstart">
+                            <a data-bs-toggle="dropdown" aria-expanded="false" class="p-1 rounded-circle shadow-sm d-flex justify-content-center align-items-center" style="width: 40px;height: 40px"><i class="fa-solid fa-cart-shopping" style="font-size: 15px"></i></a>
+                            <ul class="dropdown-menu dropdown-menu-dark">
+                                @if(session()->has('cart'))
+                                    @foreach(session('cart') as $item)
+                                        <li>
+                                            <a class="dropdown-item" href="#">
+                                                <img src="{{ \App\Models\Item::find($item)->image }}" style="width: 20px;height: auto;" alt="">
+                                                {{ \App\Models\Item::find($item)->name }}
+                                            </a>
+                                        </li>
+                                    @endforeach
+                                @endif
+                            </ul>
+                            <div class="bg-danger rounded-circle p-1 d-flex justify-content-center align-items-center text-center" style="width: 20px;height: 20px;line-height: 10px;font-size: 10px">
+                                @livewire('cart')
+                            </div>
+                        </div>
                         <a href="{{ route('home') }}"><i class="fa-solid fa-user-circle me-1"></i> <p class="d-none d-sm-inline">{{ Auth::user()->name }}</p></a>
                         <a onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><i class="fa-solid fa-right-to-bracket me-1"></i> <p class="d-none d-sm-inline">Logout</p></a>
                         <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">

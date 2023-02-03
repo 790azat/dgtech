@@ -27,7 +27,7 @@ class HomeController extends Controller
     public function index()
     {
         if (Auth::user()->type == 0) {
-            return view('user.panel');
+            return redirect()->route('welcome');
         }
         else {
             return redirect()->route('admin');

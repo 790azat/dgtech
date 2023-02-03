@@ -1,0 +1,3910 @@
+" value="http
+<source srcset="https://media.gamestop.com/i/gamestop/11206959?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11206959?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11206959?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206959?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11206959?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11206959?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206959?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11206959?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11206959?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11206959?$plp-tile3x$" alt="The Last of Us Part 1  - PlayStation 5" title="The Last of Us Part 1  - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/the-last-of-us-part-1----playstation-5/11206959-11206959.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11206959-11206959&quot;,&quot;productID&quot;:&quot;11206959-11206959&quot;,&quot;name&quot;:&quot;The Last of Us Part 1  - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;GameStop&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:64.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;The Last of Us Part 1 PlayStation 5&quot;,&quot;id&quot;:&quot;344866&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;Sony&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11206959&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">The Last of Us Part 1 - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/the-last-of-us-part-1----playstation-5/11206959-11206959.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:92.42399999999999%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(132)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="2" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '10067176-2e0ec255',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "10067176-2e0ec255", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="10067176-2e0ec255">
+<div class="product-tile product-detail" data-pid="352594">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/dead-space---playstation-5/352594.html" title='Dead Space - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/dead-space---playstation-5/10067176-2e0ec255.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/10067176-680826cd?$plp-tile3x$" alt="Dead Space - PlayStation 5" title="Dead Space - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+ <div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/dead-space---playstation-5/10067176-2e0ec255.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;10067176-2e0ec255&quot;,&quot;productID&quot;:&quot;10067176-2e0ec255&quot;,&quot;name&quot;:&quot;Dead Space - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;subGenre&quot;:&quot;Action Adventure&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Not Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;69.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Dead Space - PlayStation 5&quot;,&quot;id&quot;:&quot;352594&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;10067176&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Dead Space - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+
+<input type="hidden" value="10067176-2e0ec255" name="makeInventoryCall" />
+<div class="store-availability-msg sold-out-msg-10067176-2e0ec255 font-bold"></div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="true" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+<span class="product-release-date">Release Date: 01/27/2023</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div id="ViewSearchResult_web-Search-3">
+</div>
+<div class="product-grid-tile-wrapper" data-position="3" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11179565',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11179565", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11179565">
+<div class="product-tile product-detail" data-pid="327767">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/playstation-5/products/forspoken---playstation-5/327767.html" title='Forspoken - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/forspoken---playstation-5/11179565.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5?$plp-tile3x$" alt="Forspoken - PlayStation 5" title="Forspoken - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/forspoken---playstation-5/11179565.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;327767&quot;,&quot;productID&quot;:&quot;11179565&quot;,&quot;name&quot;:&quot;Forspoken - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Square Enix&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;New&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;69.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Forspoken - PlayStation 5&quot;,&quot;id&quot;:&quot;327767&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;Square Enix&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11179565&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Forspoken - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/forspoken---playstation-5/11179565.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:95.0%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(4)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition d-none" data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="4" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11203514-11203515',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11203514-11203515", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11203514-11203515">
+<div class="product-tile product-detail" data-pid="340599">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/hogwarts-legacy---playstation-5/340599.html" title='Hogwarts Legacy - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/hogwarts-legacy---playstation-5/11203514-11203515.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11203515?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11203515?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11203515?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11203515?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11203515?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11203515?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11203515?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11203515?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11203515?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11203515?$plp-tile3x$" alt="Hogwarts Legacy - PlayStation 5" title="Hogwarts Legacy - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/hogwarts-legacy---playstation-5/11203514-11203515.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11203514-11203515&quot;,&quot;productID&quot;:&quot;11203514-11203515&quot;,&quot;name&quot;:&quot;Hogwarts Legacy - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Warner Bros. Interactive Entertainment&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Not Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;59.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Hogwarts Legacy - PlayStation 5&quot;,&quot;id&quot;:&quot;340599&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;Warner Bros. Interactive Entertainment&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11203514&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Hogwarts Legacy - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<input type="hidden" value="11203514-11203515" name="makeInventoryCall" />
+<div class="store-availability-msg sold-out-msg-11203514-11203515 font-bold"></div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="true" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+<span class="product-release-date">Release Date: 02/10/2023</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="5" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '20003155-640dc21d',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "20003155-640dc21d", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="20003155-640dc21d">
+<div class="product-tile product-detail" data-pid="359691">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/wwe-2k23-deluxe-edition---playstation-5/359691.html" title='WWE 2K23 Deluxe - PlayStation 5'>&nbsp;</a>
+</div>
+
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/wwe-2k23-deluxe---playstation-5/20003155-640dc21d.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/20003155-640dc21d?$plp-tile3x$" alt="WWE 2K23 Deluxe - PlayStation 5" title="WWE 2K23 Deluxe - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/wwe-2k23-deluxe---playstation-5/20003155-640dc21d.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;20003155-640dc21d&quot;,&quot;productID&quot;:&quot;20003155-640dc21d&quot;,&quot;name&quot;:&quot;WWE 2K23 Deluxe - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;2K Games&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;New&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;genre&quot;:&quot;Sports&quot;,&quot;availability&quot;:&quot;Not Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;59.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;WWE 2K23 Deluxe Edition - PlayStation 5&quot;,&quot;id&quot;:&quot;359691&quot;,&quot;price&quot;:&quot;99.99&quot;,&quot;brand&quot;:&quot;2K Games&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Deluxe&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;20003155&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">WWE 2K23 Deluxe - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<input type="hidden" value="20003155-640dc21d" name="makeInventoryCall" />
+<div class="store-availability-msg sold-out-msg-20003155-640dc21d font-bold"></div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$99.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="true" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+<span class="product-release-date">Release Date: 03/14/2023</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+
+
+<div id="ViewSearchResult_web-Search-6">
+</div>
+<div class="product-grid-tile-wrapper" data-position="6" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11206901-11206901',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11206901-11206901", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11206901-11206901">
+<div class="product-tile product-detail" data-pid="344750">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/call-of-duty-modern-warfare-ii---playstation-5/344750.html" title='Call of Duty: Modern Warfare II - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/call-of-duty-modern-warfare-ii---playstation-5/11206901-11206901.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+ <source srcset="https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11206901-11206901?$plp-tile3x$" alt="Call of Duty: Modern Warfare II - PlayStation 5" title="Call of Duty: Modern Warfare II - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/call-of-duty-modern-warfare-ii---playstation-5/11206901-11206901.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11206901-11206901&quot;,&quot;productID&quot;:&quot;11206901-11206901&quot;,&quot;name&quot;:&quot;Call of Duty: Modern Warfare II - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Activision&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:64.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Call of Duty: Modern Warfare II - PlayStation 5&quot;,&quot;id&quot;:&quot;344750&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;Activision&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11206901&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Call of Duty: Modern Warfare II - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/call-of-duty-modern-warfare-ii---playstation-5/11206901-11206901.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:82.88%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(861)</div>
+</div>
+</a>
+
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="7" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11206962-11206961',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11206962-11206961", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11206962-11206961">
+<div class="product-tile product-detail" data-pid="344870">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/god-of-war-ragnarok-standard-edition---playstation-5/344870.html" title='God of War Ragnarok - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/god-of-war-ragnarok---playstation-5/11206962-11206961.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11206962-11206961?$plp-tile3x$" alt="God of War Ragnarok - PlayStation 5" title="God of War Ragnarok - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+ </picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/god-of-war-ragnarok---playstation-5/11206962-11206961.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11206962-11206961&quot;,&quot;productID&quot;:&quot;11206962-11206961&quot;,&quot;name&quot;:&quot;God of War Ragnarok - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Sony&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:64.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;God of War Ragnarok Standard Edition - PlayStation 5&quot;,&quot;id&quot;:&quot;344870&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;Sony&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11206962&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">God of War Ragnarok - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/god-of-war-ragnarok---playstation-5/11206962-11206961.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:86.66600000000001%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(24)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+ <div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="8" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11206859-11206849',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11206859-11206849", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11206859-11206849">
+<div class="product-tile product-detail" data-pid="344667">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/nba-2k23---playstation-5/344667.html" title='NBA 2K23 - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/nba-2k23---playstation-5/11206859-11206849.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11206859-11206849?$plp-tile3x$" alt="NBA 2K23 - PlayStation 5" title="NBA 2K23 - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+ <span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/nba-2k23---playstation-5/11206859-11206849.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11206859-11206849&quot;,&quot;productID&quot;:&quot;11206859-11206849&quot;,&quot;name&quot;:&quot;NBA 2K23 - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;2K Games&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Sports&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:34.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;NBA 2K23 - PlayStation 5&quot;,&quot;id&quot;:&quot;344667&quot;,&quot;price&quot;:&quot;34.99&quot;,&quot;brand&quot;:&quot;2K Games&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11206859&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">NBA 2K23 - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/nba-2k23---playstation-5/11206859-11206849.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:57.038%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(27)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$34.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div id="ViewSearchResult_web-Search-9">
+</div>
+<div class="product-grid-tile-wrapper" data-position="9" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11190740-11190739',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11190740-11190739", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11190740-11190739">
+<div class="product-tile product-detail" data-pid="334768">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/madden-nfl-23---playstation-5/334768.html" title='Madden NFL 23 - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/madden-nfl-23---playstation-5/11190740-11190739.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11190739?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11190739?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11190739?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11190739?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11190739?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11190739?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11190739?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11190739?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11190739?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11190739?$plp-tile3x$" alt="Madden NFL 23 - PlayStation 5" title="Madden NFL 23 - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/madden-nfl-23---playstation-5/11190740-11190739.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11190740-11190739&quot;,&quot;productID&quot;:&quot;11190740-11190739&quot;,&quot;name&quot;:&quot;Madden NFL 23 - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Sports&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:39.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Madden NFL 23 - PlayStation 5&quot;,&quot;id&quot;:&quot;334768&quot;,&quot;price&quot;:&quot;39.99&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11190740&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Madden NFL 23 - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/madden-nfl-23---playstation-5/11190740-11190739.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:78.146%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(604)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$39.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="10" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11206953-11206876',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11206953-11206876", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11206953-11206876">
+<div class="product-tile product-detail" data-pid="344720">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/the-callisto-protocol-day-one-edition---playstation-5/344720.html" title='The Callisto Protocol Day One - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/the-callisto-protocol-day-one---playstation-5/11206953-11206876.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11206876?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11206876?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11206876?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206876?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11206876?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11206876?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206876?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11206876?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11206876?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11206876?$plp-tile3x$" alt="The Callisto Protocol Day One - PlayStation 5" title="The Callisto Protocol Day One - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/the-callisto-protocol-day-one---playstation-5/11206953-11206876.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11206953-11206876&quot;,&quot;productID&quot;:&quot;11206953-11206876&quot;,&quot;name&quot;:&quot;The Callisto Protocol Day One - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;KRAFTON&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:44.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;The Callisto Protocol (Day One Edition) - PlayStation 5&quot;,&quot;id&quot;:&quot;344720&quot;,&quot;price&quot;:&quot;49.99&quot;,&quot;brand&quot;:&quot;Krafton&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Day One&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11206953&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">The Callisto Protocol Day One - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/the-callisto-protocol-day-one---playstation-5/11206953-11206876.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:62.141999999999996%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(28)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign has-savings   no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$49.99
+</span>
+<span class="selling-price-details  no-release-date">
+<span class="release-date"></span>
+<span class="was-strike">Was</span>
+<span class="strike-through list strike-redesign">
+<span class="value" content="69.99">
+$69.99
+</span>
+</span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="11" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '10099653-2e0ec255',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "10099653-2e0ec255", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="10099653-2e0ec255">
+<div class="product-tile product-detail" data-pid="356019">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/resident-evil-4---playstation-5/356019.html" title='Resident Evil 4 - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/resident-evil-4---playstation-5/10099653-2e0ec255.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/10099653-2e0ec255?$plp-tile3x$" alt="Resident Evil 4 - PlayStation 5" title="Resident Evil 4 - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/resident-evil-4---playstation-5/10099653-2e0ec255.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;10099653-2e0ec255&quot;,&quot;productID&quot;:&quot;10099653-2e0ec255&quot;,&quot;name&quot;:&quot;Resident Evil 4 - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Capcom&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Shooter&quot;,&quot;availability&quot;:&quot;Not Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;59.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Resident Evil 4 - PlayStation 5&quot;,&quot;id&quot;:&quot;356019&quot;,&quot;price&quot;:&quot;59.99&quot;,&quot;brand&quot;:&quot;Capcom&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;10099653&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Resident Evil 4 - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<input type="hidden" value="10099653-2e0ec255" name="makeInventoryCall" />
+<div class="store-availability-msg sold-out-msg-10099653-2e0ec255 font-bold"></div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$59.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="true" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+<span class="product-release-date">Release Date: 03/24/2023</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="12" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '20003155-2e0ec255',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "20003155-2e0ec255", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="20003155-2e0ec255">
+<div class="product-tile product-detail" data-pid="359548">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/wwe-2k23---playstation-5/359548.html" title='WWE 2K23 - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/wwe-2k23---playstation-5/20003155-2e0ec255.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/20003155-2e0ec255?$plp-tile3x$" alt="WWE 2K23 - PlayStation 5" title="WWE 2K23 - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/wwe-2k23---playstation-5/20003155-2e0ec255.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;20003155-2e0ec255&quot;,&quot;productID&quot;:&quot;20003155-2e0ec255&quot;,&quot;name&quot;:&quot;WWE 2K23 - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;2K Games&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;New&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;genre&quot;:&quot;Sports&quot;,&quot;availability&quot;:&quot;Not Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;59.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;WWE 2K23 - PlayStation 5&quot;,&quot;id&quot;:&quot;359548&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;2K Games&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;20003155&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">WWE 2K23 - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<input type="hidden" value="20003155-2e0ec255" name="makeInventoryCall" />
+<div class="store-availability-msg sold-out-msg-20003155-2e0ec255 font-bold"></div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="true" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+<span class="product-release-date">Release Date: 03/17/2023</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="13" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '20002357-640dc21d',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "20002357-640dc21d", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="20002357-640dc21d">
+<div class="product-tile product-detail" data-pid="357733">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/star-wars-jedi-survivor-deluxe-edition---playstation-5/357733.html" title='Star Wars Jedi: Survivor Deluxe - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/star-wars-jedi-survivor-deluxe---playstation-5/20002357-640dc21d.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/20002357-640dc21d?$plp-tile3x$" alt="Star Wars Jedi: Survivor Deluxe - PlayStation 5" title="Star Wars Jedi: Survivor Deluxe - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/star-wars-jedi-survivor-deluxe---playstation-5/20002357-640dc21d.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;20002357-640dc21d&quot;,&quot;productID&quot;:&quot;20002357-640dc21d&quot;,&quot;name&quot;:&quot;Star Wars Jedi: Survivor Deluxe - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;New&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Not Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;69.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Star Wars Jedi: Survivor Deluxe Edition - PlayStation 5&quot;,&quot;id&quot;:&quot;357733&quot;,&quot;price&quot;:&quot;89.99&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Deluxe&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;20002357&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Star Wars Jedi: Survivor Deluxe - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<input type="hidden" value="20002357-640dc21d" name="makeInventoryCall" />
+<div class="store-availability-msg sold-out-msg-20002357-640dc21d font-bold"></div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$89.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="true" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+<span class="product-release-date">Release Date: 03/17/2023</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="14" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11094701-11148586',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11094701-11148586", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11094701-11148586">
+<div class="product-tile product-detail" data-pid="297831">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/elden-ring---playstation-5/297831.html" title='Elden Ring - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/elden-ring---playstation-5/11094701-11148586.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11148586/Elden-Ring----PlayStation-5?$plp-tile3x$" alt="Elden Ring - PlayStation 5" title="Elden Ring - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/elden-ring---playstation-5/11094701-11148586.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11094701-11148586&quot;,&quot;productID&quot;:&quot;11094701-11148586&quot;,&quot;name&quot;:&quot;Elden Ring - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Bandai&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:49.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Elden Ring - PlayStation 5&quot;,&quot;id&quot;:&quot;297831&quot;,&quot;price&quot;:&quot;52.99&quot;,&quot;brand&quot;:&quot;Bandai&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11094701&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Elden Ring - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/elden-ring---playstation-5/11094701-11148586.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:91.41199999999999%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(3188)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign has-savings   no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$52.99
+</span>
+<span class="selling-price-details  no-release-date">
+<span class="release-date"></span>
+<span class="was-strike">Was</span>
+<span class="strike-through list strike-redesign">
+<span class="value" content="59.99">
+$59.99
+</span>
+</span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="15" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '20001322-680826cd',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "20001322-680826cd", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="20001322-680826cd">
+<div class="product-tile product-detail" data-pid="352295">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/like-a-dragon-ishin---playstation-5/352295.html" title='Like a Dragon: Ishin  - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/like-a-dragon-ishin----playstation-5/20001322-680826cd.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/20001322-680826cd?$plp-tile3x$" alt="Like a Dragon: Ishin  - PlayStation 5" title="Like a Dragon: Ishin  - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/like-a-dragon-ishin----playstation-5/20001322-680826cd.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;20001322-680826cd&quot;,&quot;productID&quot;:&quot;20001322-680826cd&quot;,&quot;name&quot;:&quot;Like a Dragon: Ishin  - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;SEGA&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;New&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Not Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;59.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Like a Dragon: Ishin - PlayStation 5&quot;,&quot;id&quot;:&quot;352295&quot;,&quot;price&quot;:&quot;59.99&quot;,&quot;brand&quot;:&quot;SEGA&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;20001322&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Like a Dragon: Ishin - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<input type="hidden" value="20001322-680826cd" name="makeInventoryCall" />
+<div class="store-availability-msg sold-out-msg-20001322-680826cd font-bold"></div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$59.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="true" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+<span class="product-release-date">Release Date: 02/21/2023</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="16" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '20002357-2e0ec255',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "20002357-2e0ec255", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="20002357-2e0ec255">
+<div class="product-tile product-detail" data-pid="357738">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/star-wars-jedi-survivor---playstation-5/357738.html" title='Star Wars Jedi: Survivor - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/star-wars-jedi-survivor---playstation-5/20002357-2e0ec255.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/20002357-2e0ec255?$plp-tile3x$" alt="Star Wars Jedi: Survivor - PlayStation 5" title="Star Wars Jedi: Survivor - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/star-wars-jedi-survivor---playstation-5/20002357-2e0ec255.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;20002357-2e0ec255&quot;,&quot;productID&quot;:&quot;20002357-2e0ec255&quot;,&quot;name&quot;:&quot;Star Wars Jedi: Survivor - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;New&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Not Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;69.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Star Wars Jedi: Survivor - PlayStation 5&quot;,&quot;id&quot;:&quot;357738&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;20002357&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Star Wars Jedi: Survivor - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<input type="hidden" value="20002357-2e0ec255" name="makeInventoryCall" />
+<div class="store-availability-msg sold-out-msg-20002357-2e0ec255 font-bold"></div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="true" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+<span class="product-release-date">Release Date: 03/17/2023</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="17" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '10115462-11204091',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "10115462-11204091", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="10115462-11204091">
+<div class="product-tile product-detail" data-pid="342264">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/grand-theft-auto-v---playstation-5/342264.html" title='Grand Theft Auto V - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/grand-theft-auto-v---playstation-5/10115462-11204091.html?condition=Pre-Owned">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11204091?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11204091?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11204091?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11204091?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11204091?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11204091?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11204091?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11204091?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11204091?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11204091?$plp-tile3x$" alt="Grand Theft Auto V - PlayStation 5" title="Grand Theft Auto V - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/grand-theft-auto-v---playstation-5/10115462-11204091.html?condition=Pre-Owned">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;10115462-11204091&quot;,&quot;productID&quot;:&quot;10115462-11204091&quot;,&quot;name&quot;:&quot;Grand Theft Auto V - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Rockstar Games&quot;,&quot;subGenre&quot;:&quot;Action Adventure&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:18.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Grand Theft Auto V - PlayStation 5&quot;,&quot;id&quot;:&quot;342264&quot;,&quot;price&quot;:&quot;18.99&quot;,&quot;brand&quot;:&quot;Rockstar Games&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;Pre-Owned&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;10115462&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Grand Theft Auto V - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/grand-theft-auto-v---playstation-5/10115462-11204091.html?condition=Pre-Owned">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:89.55%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(222)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$18.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+<div class="promotions-redesign callout">
+4 for $40 Pre-Owned Games $20 and Under
+</div>
+<div class="promotion-badge-container">
+<span class="badge-indicator">DEAL</span>
+</div>
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="18" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '10132184-360e9255',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "10132184-360e9255", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="10132184-360e9255">
+<div class="product-tile product-detail" data-pid="358560">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/the-witcher-iii-wild-hunt-complete-edition---playstation-5/358560.html" title='The Witcher III: Wild Hunt Complete - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/the-witcher-iii-wild-hunt-complete---playstation-5/10132184-360e9255.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/10132184-360e9255?$plp-tile3x$" alt="The Witcher III: Wild Hunt Complete - PlayStation 5" title="The Witcher III: Wild Hunt Complete - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+ <span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/the-witcher-iii-wild-hunt-complete---playstation-5/10132184-360e9255.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;10132184-360e9255&quot;,&quot;productID&quot;:&quot;10132184-360e9255&quot;,&quot;name&quot;:&quot;The Witcher III: Wild Hunt Complete - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;CD Projekt RED&quot;,&quot;subGenre&quot;:&quot;Action Role-Playing&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;RPG&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;9.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;The Witcher III: Wild Hunt Complete Edition - PlayStation 5&quot;,&quot;id&quot;:&quot;358560&quot;,&quot;price&quot;:&quot;39.99&quot;,&quot;brand&quot;:&quot;CD Projekt RED&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Complete&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;10132184&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">The Witcher III: Wild Hunt Complete - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+ <span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$39.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="19" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11204168-11204169',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11204168-11204169", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11204168-11204169">
+<div class="product-tile product-detail" data-pid="341342">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/one-piece-odyssey---playstation-5/341342.html" title='One Piece Odyssey - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/one-piece-odyssey---playstation-5/11204168-11204169.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11204168-11204169?$plp-tile3x$" alt="One Piece Odyssey - PlayStation 5" title="One Piece Odyssey - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/one-piece-odyssey---playstation-5/11204168-11204169.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11204168-11204169&quot;,&quot;productID&quot;:&quot;11204168-11204169&quot;,&quot;name&quot;:&quot;One Piece Odyssey - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Bandai&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;59.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;One Piece Odyssey - PlayStation 5&quot;,&quot;id&quot;:&quot;341342&quot;,&quot;price&quot;:&quot;59.99&quot;,&quot;brand&quot;:&quot;Bandai&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11204168&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">One Piece Odyssey - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/one-piece-odyssey---playstation-5/11204168-11204169.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:60.0%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(2)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$59.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+
+<div class="availability-msg">
+Select Condition / Platform
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="20" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11206861-11206861',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11206861-11206861", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11206861-11206861">
+<div class="product-tile product-detail" data-pid="344691">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/fifa-23---playstation-5/344691.html" title='FIFA 23 - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/fifa-23---playstation-5/11206861-11206861.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11206861-11206861?$plp-tile3x$" alt="FIFA 23 - PlayStation 5" title="FIFA 23 - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/fifa-23---playstation-5/11206861-11206861.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11206861-11206861&quot;,&quot;productID&quot;:&quot;11206861-11206861&quot;,&quot;name&quot;:&quot;FIFA 23 - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Sports&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:44.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;FIFA 23 - PlayStation 5&quot;,&quot;id&quot;:&quot;344691&quot;,&quot;price&quot;:&quot;44.99&quot;,&quot;brand&quot;:&quot;Electronic Arts&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11206861&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">FIFA 23 - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/fifa-23---playstation-5/11206861-11206861.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:84.358%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(312)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$44.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="21" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11118328',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11118328", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11118328">
+<div class="product-tile product-detail" data-pid="294960">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/playstation-5/products/ratchet-and-clank-rift-apart---playstation-5/294960.html" title='Ratchet and Clank: Rift Apart - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/ratchet-and-clank-rift-apart---playstation-5/11118328.html?condition=Pre-Owned">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11118328/Ratchet-and-Clank-Rift-Apart---PlayStation-5?$plp-tile3x$" alt="Ratchet and Clank: Rift Apart - PlayStation 5" title="Ratchet and Clank: Rift Apart - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/ratchet-and-clank-rift-apart---playstation-5/11118328.html?condition=Pre-Owned">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;248026&quot;,&quot;productID&quot;:&quot;11118328&quot;,&quot;name&quot;:&quot;Ratchet and Clank: Rift Apart - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Sony&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;New&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;genre&quot;:&quot;Adventure&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;69.99&quot;,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Ratchet and Clank: Rift Apart - PlayStation 5&quot;,&quot;id&quot;:&quot;294960&quot;,&quot;price&quot;:&quot;44.99&quot;,&quot;brand&quot;:&quot;Sony&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;Pre-Owned&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Launch&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11118328&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Ratchet and Clank: Rift Apart - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/ratchet-and-clank-rift-apart---playstation-5/11118328.html?condition=Pre-Owned">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:90.69%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(1160)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$44.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="22" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11208658-11208650',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11208658-11208650", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11208658-11208650">
+<div class="product-tile product-detail" data-pid="344635">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/gotham-knights---playstation-5/344635.html" title='Gotham Knights - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/gotham-knights---playstation-5/11208658-11208650.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11208650/Gotham-Knights---PlayStation-5?$plp-tile3x$" alt="Gotham Knights - PlayStation 5" title="Gotham Knights - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/gotham-knights---playstation-5/11208658-11208650.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11208658-11208650&quot;,&quot;productID&quot;:&quot;11208658-11208650&quot;,&quot;name&quot;:&quot;Gotham Knights - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Warner Brothers&quot;,&quot;subGenre&quot;:&quot;Third-Person&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Action&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;59.99&quot;,&quot;basePrice&quot;:&quot;69.99&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Gotham Knights - PlayStation 5&quot;,&quot;id&quot;:&quot;344635&quot;,&quot;price&quot;:&quot;59.99&quot;,&quot;brand&quot;:&quot;Warner Bros. Interactive Entertainment&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Standard&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11208658&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Gotham Knights - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/gotham-knights---playstation-5/11208658-11208650.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:80.0%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(18)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign has-savings   no-release-date">
+<span class="actual-price actual-price-strikethroughable-span  ">
+$59.99
+</span>
+<span class="selling-price-details  no-release-date">
+<span class="release-date"></span>
+<span class="was-strike">Was</span>
+<span class="strike-through list strike-redesign">
+<span class="value" content="69.99">
+$69.99
+</span>
+</span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="23" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11161876-11162003',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11161876-11162003", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11161876-11162003">
+<div class="product-tile product-detail" data-pid="312502">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/gran-turismo-7---playstation-5/312502.html" title='Gran Turismo 7 Launch - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/gran-turismo-7-launch---playstation-5/11161876-11162003.html?condition=New">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$plp-tile3x$" alt="Gran Turismo 7 Launch - PlayStation 5" title="Gran Turismo 7 Launch - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</div>
+<div class="d-flex flex-column full-height justify-content-between">
+<div class="tile-body">
+<div class="product-tile-header">
+<div class="variant-type pb-1 d-flex">
+<svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" color="#5f5f5f" class="gme-icon-svg-element text-current" height="16" width="16" xmlns="http://www.w3.org/2000/svg" style="color: rgb(95, 95, 95);"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"></path></svg>
+<span class="ml-1">More Options</span>
+</div>
+</iselse>
+<a class="link-name" href="/video-games/playstation-5/products/gran-turismo-7-launch---playstation-5/11161876-11162003.html?condition=New">
+<div class="pdp-link" data-gtmdata="{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;11161876-11162003&quot;,&quot;productID&quot;:&quot;11161876-11162003&quot;,&quot;name&quot;:&quot;Gran Turismo 7 Launch - PlayStation 5&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;brand&quot;:&quot;Sony&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;PlayStation 5&quot;,&quot;condition&quot;:&quot;&quot;,&quot;variant&quot;:&quot;&quot;,&quot;genre&quot;:&quot;Racing&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;regular&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:59.99,&quot;basePrice&quot;:&quot;&quot;,&quot;currency&quot;:&quot;USD&quot;}}" data-gtmdetail="{&quot;name&quot;:&quot;Gran Turismo 7 - PlayStation 5&quot;,&quot;id&quot;:&quot;312502&quot;,&quot;price&quot;:&quot;69.99&quot;,&quot;brand&quot;:&quot;Sony&quot;,&quot;category&quot;:&quot;Video Games/PlayStation 5&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;dimension13&quot;:&quot;PlayStation 5&quot;,&quot;dimension14&quot;:&quot;Launch&quot;,&quot;dimension17&quot;:&quot;&quot;,&quot;dimension15&quot;:&quot;&quot;,&quot;dimension16&quot;:&quot;&quot;,&quot;dimension22&quot;:&quot;11161876&quot;}">
+<p class="pd-name link pb-1 mb-0 d-inline-block">Gran Turismo 7 Launch - PlayStation 5</p>
+</div>
+</a>
+<div class="product-tile-availability">
+<span class="pr-1 platform"></span>
+</div>
+<div class="tile-ratings">
+<a href="/video-games/playstation-5/products/gran-turismo-7-launch---playstation-5/11161876-11162003.html?condition=New">
+<div class="average-rating">
+<div class="grey-stars star-img">
+<div class="red-stars star-img" style="width:77.89399999999999%"></div>
+</div>
+<div class="d-inline-block align-text-top rating-count">(1026)</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="tile-price">
+<div class="variant-options d-none">
+<div class="swatch condition " data-attr="condition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch platform " data-attr="platform">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+<div class="swatch edition " data-attr="edition">
+<div class="condition-pricing pb-1">
+</div>
+</div>
+</div>
+<div class="conditions-pricing-on-plp">
+<div class="card-body">
+<div class="condition-prices">
+<div class="price ">
+<div class="default-pricing">
+<span class="price">
+
+<span class="selling-price-redesign   no-list-price no-release-date">
+<span class="actual-price actual-price-strikethroughable-span has-pro-pricing ">
+$69.99
+</span>
+<span class="selling-price-details no-list-price no-release-date">
+<span class="release-date"></span>
+</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="availability product-availability global-availability mb-2" data-ready-to-order="false" data-available="true" data-is-preorder="false" data-is-instock="null" data-line-item-store-id="">
+<div class="availability-msg">
+Select Condition / Platform / Edition
+For Availability
+</div>
+<div class="store-availability-msg"></div>
+</div>
+<div class="release-date-plp">
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div>
+</div>
+<div class="product-grid-tile-wrapper" data-position="24" data-list-item-type="Product list">
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+(function(){
+try {
+    if(window.CQuotient) {
+	var cq_params = {};
+
+	cq_params.cookieId = window.CQuotient.getCQCookieId();
+	cq_params.userId = window.CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.accumulate = true;
+	cq_params.products = [{
+	    id: '11103983-11105660',
+	    sku: ''
+	}];
+	cq_params.categoryId = 'ps5-games';
+	cq_params.refinements = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+	cq_params.personalized = 'false';
+	cq_params.sortingRule = 'boost-category-position';
+	cq_params.imageUUID = '__UNDEFINED__';
+	cq_params.realm = "BCPK";
+	cq_params.siteId = "gamestop-us";
+	cq_params.instanceType = "prd";
+	cq_params.queryLocale = "default";
+	cq_params.locale = window.CQuotient.locale;
+
+	if(window.CQuotient.sendActivity)
+	    window.CQuotient.sendActivity(CQuotient.clientId, 'viewCategory', cq_params);
+	else
+	    window.CQuotient.activities.push({
+	    	activityType: 'viewCategory',
+	    	parameters: cq_params
+	    });
+  }
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewCategoryProduct-active_data.js) */
+(function(){
+try {
+	if (dw.ac) {
+		var search_params = {};
+		search_params.persd = 'false';
+		search_params.refs = '[{\"name\":\"tradeOnly\",\"value\":\"false\"},{\"name\":\"isEmbargoed\",\"value\":\"false\"},{\"name\":\"Category\",\"value\":\"ps5-games\"}]';
+		search_params.sort = 'boost-category-position';
+		search_params.imageUUID = '';
+		search_params.searchID = 'dda297d9-c99d-4e51-9e78-049c7bc36f9a';
+		search_params.locale = 'default';
+		search_params.queryLocale = 'default';
+		search_params.showProducts = 'true';
+		dw.ac.applyContext({category: "ps5-games", searchData: search_params});
+		if (typeof dw.ac._scheduleDataSubmission === "function") {
+			dw.ac._scheduleDataSubmission();
+		}
+	}
+} catch(err) {}
+})();
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (viewProduct-active_data.js) */
+dw.ac._capture({id: "11103983-11105660", type: "searchhit"});
+/* ]]> */
+// -->
+</script>
+<div class="product grid-tile" data-pid="11103983-11105660">
+<div class="product-tile product-detail" data-pid="305604">
+<div class="product-tile-link-block">
+<a class="product-tile-link" href="/video-games/products/far-cry-6---playstation-5/305604.html" title='Far Cry 6 - PlayStation 5'>&nbsp;</a>
+</div>
+
+<div class="image-container col-4 col-sm-auto">
+<a href="/video-games/playstation-5/products/far-cry-6---playstation-5/11103983-11105660.html?condition=Pre-Owned">
+<picture>
+<source srcset="https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 1x, https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile2x$&amp;fmt=jp2 2x,https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile3x$&amp;fmt=jp2 3x" type="image/jp2" />
+<source srcset="https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile3x$&amp;fmt=webp 1x, https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile2x$&amp;fmt=webp 2x,https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile3x$&amp;fmt=webp 3x" type="image/webp" />
+<source srcset="https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile3x$ 1x, https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile2x$ 2x,https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile3x$ 3x" type="image/jpeg" />
+<img class="tile-image lazyload" data-src="https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5?$plp-tile3x$" alt="Far Cry 6 - PlayStation 5" title="Far Cry 6 - PlayStation 5" src="/on/demandware.static/Sites-gamestop-us-Site/-/default/dw63627b35/images/ajaxLoader.gif" />
+</picture>
+</a>
+</li>

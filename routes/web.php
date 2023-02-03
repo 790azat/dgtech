@@ -31,6 +31,7 @@ Route::get('/reset', function () {
     return redirect()->route('welcome');
 });
 
+
 Route::get('/',Items::class)->name('welcome');
 Route::get('/category/{name}', ShowCategory::class);
 Route::get('/item/{id}', ShowItem::class);
@@ -44,6 +45,8 @@ Route::get('/admin/{page}', AdminPage::class);
 
 Route::post('/add-item',[AdminController::class,'add_item'])->name('add-item');
 Route::post('/edit-item',[AdminController::class,'edit_item'])->name('edit-item');
+
+Route::get('/parser',[\App\Http\Controllers\ParserCotroller::class,'index']);
 
 
 

@@ -21,7 +21,9 @@ class CategorySeeder extends Seeder
             ['name' => 'tablet', 'icon' => 'tablet','created_at' => now()],
             ['name' => 'watch', 'icon' => 'clock','created_at' => now()],
             ['name' => 'laptop', 'icon' => 'laptop','created_at' => now()],
-            ['name' => 'earbuds', 'icon' => 'headphones','created_at' => now()]
+            ['name' => 'earbuds', 'icon' => 'headphones','created_at' => now()],
+            ['name' => 'playstation', 'icon' => 'gamepad','created_at' => now()],
+            ['name' => 'tv', 'icon' => 'tv','created_at' => now()],
         ];
 
         DB::table('categories')->insert($categories);

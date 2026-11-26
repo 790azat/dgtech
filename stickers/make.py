@@ -6,7 +6,7 @@ from fontTools.pens.transformPen import TransformPen
 W_TEXT = 38.0      # total text length, mm (~38% of a 10 cm fuselage, like the real livery)
 CAP = 3.3          # cap height, mm
 PAD_X, PAD_Y = 0.8, 0.7
-GAP = 1.0
+GAP = 0.0   # stickers share cut lines
 MARGIN = 3.5
 PAGE_W, PAGE_H = 210.0, 297.0
 
